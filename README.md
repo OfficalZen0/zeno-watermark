@@ -5,4 +5,4 @@ Tack för du har valt att ladda ner ellew-logo för att använda detta script m�
 [ENG]
 Thank you for choosing to download ellew-logo to use this script you have to change the logo ellew-logo/html/logo.png you can change it to your logo and the script will work!! Don't forget to join the discord for more free scripts
 
-Made By:Ellew#2534
+Made By:Rydmo#2534
