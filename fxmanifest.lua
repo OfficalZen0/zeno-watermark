@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-description 'Ellew-Logo'
+description 'rydmo-watermark'
 version 'a0.0'
 
 client_scripts {
