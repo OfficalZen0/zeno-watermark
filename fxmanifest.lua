@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-description 'rydmo-watermark'
+description 'zeno-watermark'
 version 'a0.0'
 
 client_scripts {
